@@ -1,7 +1,7 @@
 
 # Lista de Tarefas
 
-Uma lista de tarefas simples desenvolvida com o intuito de entender o funcionamento dos estados em react.
+Uma lista de tarefas simples desenvolvida com o intuito de entender o funcionamento dos estados e a criação de components em react.
 
 
 
@@ -25,7 +25,7 @@ Instale meu projeto usando gitBash e com npm
     
 ## Aprendizados
 
-Com esse projeto consegui compreender como funcionada os estados em React e criação de components e também estilização usando styled-components.
+Com esse projeto consegui compreender como funciona os estados em React e criação de components e também estilização usando styled-components.
 
 ## Autores
 
